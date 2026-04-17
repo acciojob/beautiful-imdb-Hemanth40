@@ -1,2 +1,19 @@
-
 /* Your CSS Code here. */
+  /* Movie Poster */
+    .moviePic {
+      height: 300px;
+      width: 200px;
+      opacity: 0.8;
+      display: block;
+      margin: 20px auto;
+    }
+
+    /* Movie Description */
+    .movieDetail {
+      position: relative;
+      top: 20px;
+      width: 60%;
+      margin: auto;
+      text-align: center;
+      font-size: 18px;
+    }
